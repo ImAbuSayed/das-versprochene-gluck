@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-versprochene-gluck/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Das versprochene Glück](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-versprochene-gluck/) |
+| **Get License** | [Official Music Licensing for Das versprochene Glück](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-versprochene-gluck/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9ef6950db926a49c5263b7d52a13e9c4901ce693aba9e77d5e526182e8ff6e0d` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
