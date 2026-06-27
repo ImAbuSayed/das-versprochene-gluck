@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-versprochene-gluck/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Das versprochene Glück](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-versprochene-gluck/) |
+| **Get License** | [Commercial Licensing for Das versprochene Glück](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-versprochene-gluck/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Immer wenn die Nacht fällt, Babe, gehörst du nur mir
+> Spür den Bass so tief, lass uns beide fliehen von hier
+> Mitternacht, schwarzer Benz, dein Blick brennt wie Neonlicht
+> Keine Zeit für Spiele, weil du weißt, was mir versprochen ist
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
